@@ -1,7 +1,7 @@
 {
   "name": "listr",
   "version": "0.0.1",
-  "description": "Surgical service list and M&M manager",
+  "description": "Surgical service list, rounding and M&M manager",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot",
