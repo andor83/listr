@@ -1,0 +1,32 @@
+{
+  "name": "listr",
+  "version": "0.0.1",
+  "description": "Surgical service list and M&M manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot",
+    "build-front-end": "webpack"
+  },
+  "dependencies": {
+    "material-ui": "^0.19.2",
+    "moment": "^2.18.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "uuid": "^3.1.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "keywords": [],
+  "author": "Andy Rivera MD",
+  "contributors": [],
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
